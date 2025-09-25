@@ -37,6 +37,6 @@ evaluaciones = [
         'EquipoB': {'innovacion': 1, 'presentacion': 1, 'errores': False},
         'EquipoC': {'innovacion': 0, 'presentacion': 2, 'errores': False},
         'EquipoD': {'innovacion': 2, 'presentacion': 2, 'errores': False},
-        'EquipoE': {'innovacion': 2, 'presentacion': 3, 'errores': True}
-    }
+        'EquipoE': {'innovacion': 2, 'presentacion': 3, 'errores': True}
+    }
 ]
